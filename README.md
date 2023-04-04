@@ -11,7 +11,7 @@ With Docsify-This you can instantly turn any publicly available Markdown file in
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘Publish as Standalone Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
 
 ![Docsify-This Web Page Builder](images/docsify-this-web-page-builder.jpg ':class=image-75-border')  
-_Figure 1. Docsify-This Web Page Builder_
+_Figure 1. Docsify-This Web Page Builder (Paul Hibbitts, CC BY-A 4.0)_
 
 ### Example Docsify-This URL
 
@@ -20,7 +20,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 ```
 
 ![Docsify-This Rendered Markdown File](images/docsify-this-rendered-markdown-file.jpg ':class=image-75-border')  
-_Figure 2. Docsify-This Rendered Markdown File_
+_Figure 2. Docsify-This Rendered Markdown File (Paul Hibbitts, CC BY-A 4.0)_
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
 
@@ -110,7 +110,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
 ![Docsify-This iFrame](images/docsify-this-iframe.jpg ':class=image-75-border')  
-_Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289_
+_Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example https://canvas.sfu.ca/courses/76289 (Paul Hibbitts, CC BY-A 4.0)_
 
 ```html
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
@@ -121,7 +121,7 @@ Many LMSs, including Canvas and Moodle, have the ability to link external web pa
 #### Example Docsify-This Redirect Tool URL 
 
 ![Docsify-This Module](images/docsify-this-page.jpg ':class=image-75-border')  
-_Figure 3. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154_
+_Figure 4. Docsify-This External URL within Canvas LMS (used with the Redirect Tool), for example https://canvas.sfu.ca/courses/76289/external_tools/36154 (Paul Hibbitts, CC BY-A 4.0)_
 
 ```html
 url=https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=resources.md&edit-link=https://github.com/paulhibbitts/cmpt-363-222-pages/blob/main/resources.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue, Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
@@ -156,7 +156,7 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
-_Figure 6. Docsify-This + GitHub Markdown Files Workflow_
+_Figure 6. Docsify-This + GitHub Markdown Files Workflow (Paul Hibbitts, CC BY-A 4.0)_
 
 ## One of the Easiest On-Ramps to Markdown Publishing!
 
