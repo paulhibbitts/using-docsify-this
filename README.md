@@ -6,15 +6,6 @@ Are you interested in leveraging Markdown for online content without any website
 
 With Docsify-This you can instantly turn any publicly available Markdown file into a responsive standalone web page, and multiple Markdown files can even be linked together to provide a simple website. The visual appearance of displayed pages can be altered by using the point-and-click Web Page Builder or URL parameters. In addition, if GitHub or Codeberg are used to store Markdown files an "Edit this Page" link can be automatically provided for each page to support collaborative authoring.
 
-### Example Docsify-This Usage Scenarios
-
-* Publish your Markdown files as standalone web pages, with no website setup or build process required
-* Visually style your standalone web pages using a point-and-click Web Page Builder
-* Share existing GitHub-hosted Markdown files as standalone web pages, with an optional 'Edit this Page' link
-* Seamlessly embed constraint-free Markdown/HTML, which you have authored, into other platforms (e.g. LMS or CMS)
-* Reuse existing Markdown content by seamlessly embedding it within other platforms (e.g. LMS or CMS)
-* Utilize the supported URL parameters when embedding content to match each destination platform better visually
-
 ### Docsify-This Web Page Builder
 
 To use the Docsify-This **Web Page Builder** enter the URL for an online Markdown file and tap the ‘View as Standalone Web Page’ button. The Markdown file will then  be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
@@ -145,7 +136,7 @@ _Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example htt
 
 ## Docsify-This + GitHub or Codeberg Markdown Files 
 
-To fully leverage the benefits of version control, and potentially collaboration using an optional 'Edit this Page' link, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and use an app such as GitHub Desktop to push/pull changes
+To fully leverage the benefits of version control, and potentially collaboration using an optional "Edit this Page" link, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and use an app such as GitHub Desktop to push/pull changes
 
 ### Setting up GitHub Desktop
 
