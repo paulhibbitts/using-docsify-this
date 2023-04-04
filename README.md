@@ -1,6 +1,6 @@
 # Using Docsify-This for Publishing, Sharing and Reusing Markdown Content
 
-Are you interested in leveraging Markdown for online content without any website setup or build process? How about seamlessly embedding constraint-free Markdown/HTML into other platforms (e.g. CMS or LMS)? The open-source project Docsify-This.net (based on Docsify.js.org) provides an easy way to publishing, sharing and reusing Markdown content.
+Are you interested in leveraging Markdown for online content without any website setup or build process? How about seamlessly embedding constraint-free Markdown/HTML into other platforms (e.g. CMS or LMS)? The open-source project [Docsify-This.net](https://docsify-this.net) (which uses Docsify.js.org) provides an easy way to publishing, sharing and reusing Markdown content.
 
 ## Docsify-This
 
