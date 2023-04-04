@@ -1,48 +1,6 @@
-![](images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg ':class=banner-image')
+# Using Docsify-This for Publishing, Sharing and Reusing Markdown Content
 
-# Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
-
-An introduction to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
-
-## Markdown
-
-### What is Markdown? 
-Markdown is a syntax to format the display of content stored as plain text - similar but simpler than HTML formatting
-
-### Why Markdown? 
-
-* System-independent
-* Text only format (perfect for version control)
-* Separation of content vs. presentation
-* Human-readable (i.e. more than HTML)
-* Can also contain HTML snippets
-
-### Markdown Examples
-
-```
-# Your H1 Text Here  
-## Your H2 Text Here  
-
-_your italic text here_  
-
-**your bold text here**  
-
-* your unordered list item here  
-
-  1. your numbered (and indented) list item here   
-
-[link title](www.google.com)  
-```
-Tip: To ensure a new paragraph after text in markdown, put two spaces after the end of the line
-
-## Publishing with Markdown
-
-* Markdown Converters
-  * For example, [Pandoc](https://pandoc.org/)
-* Markdown Static Site Builders
-  * For example, [Jekyll](https://jekyllrb.com/)
-* Markdown Dynamic Renderers
-  * For example, [Docsify](https://docsify.js.org)
+Are you interested in leveraging Markdown for online content without any website setup or build process? How about seamlessly embedding constraint-free Markdown/HTML into other platforms (e.g. CMS or LMS)? The open-source project Docsify-This.net (based on Docsify.js.org) provides an easy way to publishing, sharing and reusing Markdown content!
 
 ## Docsify-This
 
@@ -187,52 +145,15 @@ _Figure 5. Docsify-This iFrame (within the Canvas LMS Homepage), for example htt
 <p><iframe style="overflow: hidden; border: 0px #ffffff none; margin-top: -26px; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/cmpt-363-222-pages/main&homepage=home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true" width="800px" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
 ```
 
-## Git and GitHub
-
-### Git
-
-Git is a free and open source distributed version control system,  originally created by Linus Torvalds in 2005 for development of the Linux kernel. 
-
-#### Version Control
-
-Version control supports the management of changes, called revisions, to files... especially useful for pure text files such as those used by Docsify-This.
-
-![Local Version Control](images/local.png ':class=image-75')  
-_Figure 6. Local Version Control (source: https://git-scm.com)_
-
-#### Collaboration
-
-As a distributed version control system, Git also support collaboration with multiple contributors.
-
-![Distributed Version Control](images/distributed.png ':class=image-75-border')  
-_Figure 7. Distributed Version Control (source: https://git-scm.com)_
-
-### GitHub
-
-GitHub is an online Git service, providing point-and-click means to create and manage Git repositories.
-
-In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
-
-![GitHub Markdown File](images/github-markdown-file.jpg ':class=image-75-border')  
-_Figure 8. GitHub Markdown File_
-
-### GitHub Desktop
-  
-* Locally Store Git/GitHub Repositories  
-* **Push** and **Pull** Repository Changes  
-
-![GitHub Desktop](images/github-desktop-screenshot-mac.jpg ':class=image-75-border')  
-_Figure 9. GitHub Desktop Mac (source: https://desktop.github.com)_
-
 ### Docsify-This + GitHub Markdown Files 
 
-To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub repository and use GitHub Desktop to push/pull changes
+To fully leverage the benefits of version control, and potentially collaboration, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and use an app such as GitHub Desktop to push/pull changes
 
 ### Setting up GitHub Desktop
 
 1. Install GitHub Desktop (https://desktop.github.com)
 1. Enter your GitHub credentials as prompted
-1. Go to a GitHub repository web page, tap **< > Code** and then choose **Open with GitHub Desktop**
+1. Go to a GitHub repository web page, tap **< > Code** and then choose **Open with GitHub Desktop** OR go to a Codeberg repository web page, copy the HTTPS address, then in GitHub Desktop choose **File > Clone Repository** and paste the copied URL
 1. Choose the location for your cloned repository and tap the **Clone** button
 
 ### Desktop Text Editors
