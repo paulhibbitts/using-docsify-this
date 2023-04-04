@@ -152,10 +152,7 @@ Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop v
 Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used alone to both sync and editing files.
 
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
-_Figure 10. Docsify-This + GitHub Markdown Files Workflow_
-
-![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-75-border')  
-_Figure 11. Docsify-This + Webserver Markdown Files_
+_Figure 6. Docsify-This + GitHub Markdown Files Workflow_
 
 ## An Easy On-Ramp to Markdown Publishing
 
