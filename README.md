@@ -1,6 +1,6 @@
 # Using Docsify-This for Publishing, Sharing and Reusing Markdown Content
 
-Are you interested in leveraging Markdown for online content without any website setup or build process? How about seamlessly embedding constraint-free Markdown/HTML into other platforms (e.g. CMS or LMS)? The open-source project Docsify-This.net (based on Docsify.js.org) provides an easy way to publishing, sharing and reusing Markdown content!
+Are you interested in leveraging Markdown for online content without any website setup or build process? How about seamlessly embedding constraint-free Markdown/HTML into other platforms (e.g. CMS or LMS)? The open-source project Docsify-This.net (based on Docsify.js.org) provides an easy way to publishing, sharing and reusing Markdown content.
 
 ## Docsify-This
 
@@ -167,17 +167,3 @@ _Figure 10. Docsify-This + GitHub Markdown Files Workflow_
 
 ![Docsify-This + Webserver Markdown Files_](images/docsify-this-webserver.jpg ':class=image-75-border')  
 _Figure 11. Docsify-This + Webserver Markdown Files_
-
-## Additional Resources
-
-* Markdown Format
-  * [Markdown Guide](http://markdownguide.org)
-  * [Markdown Cheatsheet](http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Markdown Editors
-  * [VSCode](https://code.visualstudio.com/)
-  * [Pulsar Beta (was Atom.io)](https://pulsar-edit.dev/)
-  * [Typora](https://typora.io/)
-* GitHub Desktop
-  * [GitHub Desktop App](https://desktop.github.com/)
-  * [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)
-  * [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
