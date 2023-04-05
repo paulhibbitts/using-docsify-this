@@ -158,6 +158,6 @@ Using GitHub Desktop you can preview any changes and then commit those changes b
 ![Docsify-This + GitHub Markdown Files](images/docsify-this-github.jpg ':class=image-75-border')  
 _Figure 6. Docsify-This + GitHub Markdown Files Workflow (Paul Hibbitts, CC BY-A 4.0)_
 
-## One of the Easiest On-Ramps to Markdown Publishing!
+## One of the Easiest On-Ramps to Publishing with Markdown!
 
 With Docsify-This the benefits of Markdown-based publishing, and the power of the magical documentation site generator Docsify, are now available to a broader audience than ever - try it out today at [Docsify-This.net](https://docsify-this.net).
