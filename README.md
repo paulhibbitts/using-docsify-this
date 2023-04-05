@@ -6,7 +6,7 @@ Are you interested in leveraging Markdown for online content without any website
 
 With Docsify-This you can instantly turn any publicly available Markdown file into a responsive standalone web page, and multiple Markdown files can even be linked together to provide a simple website. The visual appearance of displayed pages can be altered by using the point-and-click Web Page Builder or URL parameters. You can also use a set of provided Markdown CSS classes when creating your own Markdown content. In addition, if GitHub or Codeberg are used to store Markdown files an "Edit this Page" link can be automatically provided for each page to support collaborative authoring.
 
-_Being open source, you can host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
+_Being open source, you can also host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
 
 ### Docsify-This Web Page Builder
 
