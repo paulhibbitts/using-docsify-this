@@ -52,21 +52,21 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')  
 
+Image file: [button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/button.png)
+
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ```
-
-Image file: [button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/button.png)
 
 **banner-image**  
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
+Image file: [cropped-image.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/cropped-image.png)
+
 ```markdown
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 ```
-
-Image file: [cropped-image.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/cropped-image.png)
 
 #### Custom Markdown CSS Classes
 
@@ -91,6 +91,8 @@ Image file: [cropped-image.png](https://github.com/paulhibbitts/using-docsify-th
 In addition to the Markdown CSS classes supported by Docsify-This, you can also define your own custom classes within your displayed Markdown files, for example:
 
 [Custom CSS Class Button](# ':class=mybutton')
+
+Image file: [custom-css-button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/custom-css-button.png)
 
 CSS in Markdown file:  
 ```css
@@ -117,8 +119,6 @@ Markdown:
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
 ```
-
-Image file: [custom-css-button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/custom-css-button.png)
 
 #### HTML Snippets
 
