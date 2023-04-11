@@ -56,7 +56,7 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ```
 
-Image file: [button.png](images/button.png)
+Image file: [button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/button.png)
 
 **banner-image**  
 
@@ -66,7 +66,7 @@ Image file: [button.png](images/button.png)
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 ```
 
-Image file: [cropped-image.png](images/cropped-image.png)
+Image file: [cropped-image.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/cropped-image.png)
 
 #### Custom Markdown CSS Classes
 
@@ -118,7 +118,7 @@ Markdown:
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
 ```
 
-Image file: [custom-css-button.png](images/custom-css-button.png)
+Image file: [custom-css-button.png](https://github.com/paulhibbitts/using-docsify-this-article/blob/main/images/custom-css-button.png)
 
 #### HTML Snippets
 
